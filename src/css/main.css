@@ -85,3 +85,7 @@
 
 /* Uncomment out the line below to help debug layout issues */
 /*@import './imports/_debug';*/
+
+.full-sized {
+  height: 80vh !important;
+}
