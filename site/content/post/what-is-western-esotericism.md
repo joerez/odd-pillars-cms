@@ -10,7 +10,7 @@ image: /img/westerneso.png
 
 ___
 
-Before we get into **Western Esotericsm** let's first go over what **esotericsm** is. **Esototericism** is the state or quality of being **esoteric**. Generally, in the occult community, when somebody refers to something as being **esoteric**, they are talking about an _occult science_ that's veiled in allegories and symbols, that is intended for only a select few to understand, and has several different layers of meaning. It's antonym, **exoteric** is the_ surface_ level message that is in plain view.
+Before we get into **Western Esotericism** let's first go over what **esotericism** is. **Esotericism** is the state or quality of being **esoteric**. Generally, in the occult community, when somebody refers to something as being **esoteric**, they are talking about an _occult science_ that's veiled in allegories and symbols, that is intended for only a select few to understand, and has several different layers of meaning. It's antonym, **exoteric** is the _surface_ level message that is in plain view.
 
 If you've ever taken a literary English class, you're probably already familiar with this. Authors will convey messages and ideas through metaphors and symbols. For instance, an Author might decide to make something the color black, in order to associate it with the astrological properties of Saturn. Upon looking for the hidden meaning behind symbols, a problem arises. **It's hard to tell what's intentional and what isn't**.
 
@@ -34,7 +34,7 @@ Hermeticism is a religious, philosophical, and esoteric tradition based primaril
 
 **Hermes Trismegistus** is thrice great because he is the founder of the three parts of wisdom: **Alchemy**, **Astrology**, and **Magic**. His contributions to Alchemy have turned into modern medicine, and astrology into modern astronomy.
 
-Many modern day Hermeticists are introduced to Hermeticism by the _Kybalion_, written by _Three Initiates_. This text is quite popular among beginning students and new age enthusiasts. Developed Hermeticists tend to have an awkward relationship with the _Kybalion_ because it dumbs down much of the Science and presents it's material in a very "Feel Good" way. It's also not an original** hermetic** **text**.
+Many modern day Hermeticists are introduced to Hermeticism by the _Kybalion_, written by _Three Initiates_. This text is quite popular among beginning students and new age enthusiasts. Developed Hermeticists tend to have an awkward relationship with the _Kybalion_ because it dumbs down much of the Science and presents it's material in a very "Feel Good" way. It's also not an original **hermetic text**.
 
 It is however, important to mention the _Kybalion_, because it introduced to the masses, **seven basic hermetic principles**. These are said to have been taken from study of **Hermes's** original teachings. While not all hermeticists accept these 7 principles, they are still important to know about.
 
@@ -42,13 +42,13 @@ The bulk of Hermetic Sciences are found in Hermes Trismegistus's books: _The Eme
 
 Using these Hermetic sciences, the study of **magic** was born, and today many Secret Socieites are devoted to the study of Hermeticism. Groups such as **the Hermetic Order of the Golden Dawn**, **Ordo Templi Orientis**, **AMORC**, and many others all share this system of thought.
 
-**Rosicrucianism** came about in the 17th century after several texts announced the existence of an unknown esoteric order. Because **Rosicrucianism **was brought into the limelight around the same time as **FreeMasonry**, many believe that the two influenced each other. The mysterious doctrine of the original **Rosicrucian Order** was allegedly "built on esoteric truths of the ancient past", which "concealed from the average man, provide insight into nature, the physical universe and the spiritual realm." The manifestos do not elaborate extensively on the matter, but clearly combine references to **Kabbalah**, **Hermeticism**, and **mystical Christianity**.
+**Rosicrucianism** came about in the 17th century after several texts announced the existence of an unknown esoteric order. Because  **Rosicrucianism** was brought into the limelight around the same time as **FreeMasonry**, many believe that the two influenced each other. The mysterious doctrine of the original **Rosicrucian Order** was allegedly "built on esoteric truths of the ancient past", which "concealed from the average man, provide insight into nature, the physical universe and the spiritual realm." The manifestos do not elaborate extensively on the matter, but clearly combine references to **Kabbalah**, **Hermeticism**, and **mystical Christianity**.
 
 **Hermetic Qabalah** (from the **Hebrew** קַבָּלָה "reception" or "accounting") is a Western esoteric tradition involving **mysticism**, **Gnosticism**, and the occult. It is the underlying philosophy and framework for magical societies such as the **Golden Dawn**, **Thelemic orders**, mystical-religious societies such as the **Builders of the Adytum** and the **Fellowship of the Rosy Cross**, and is a precursor to the **Neopagan**, **Wiccan** and **New Age movements**.
 
 Occult Hermetic Qabalah arose alongside and united with the **Christian Cabalistic involvement** in the European Renaissance, becoming variously Esoteric Christian, non-Christian, or anti-Christian across its different schools in the modern era. 
 
-It draws on a great many influences, most notably: **Jewish Kabbalah**, **Western astrology**, **Alchemy**, pagan religions, especially **Egyptian** and **Greco-Roman** (it is from the latter that the term "Hermetic" is derived), **neoplatonism**, **gnosticism**, the** Enochian system of angelic magic** of _John Dee_ and _Edward Kelley_, **hermeticism**, **tantra** and the symbolism of the **tarot**. 
+It draws on a great many influences, most notably: **Jewish Kabbalah**, **Western astrology**, **Alchemy**, pagan religions, especially **Egyptian** and **Greco-Roman** (it is from the latter that the term "Hermetic" is derived), **neoplatonism**, **gnosticism**, the **Enochian system of angelic magic** of _John Dee_ and _Edward Kelley_, **hermeticism**, **tantra** and the symbolism of the **tarot**. 
 
 **Hermetic Qabalah** differs from the Jewish form in being a more admittedly **syncretic** system, however it shares many concepts with **Jewish Kabbalah**.
 
@@ -60,9 +60,9 @@ _The Qabalistic Tree of Life is depicted above. This specific depiction combines
 
 ____
 
-**Kabalah**, **Qabalah**, **Cabala**, why so many different spellings? Since Kabalah is used in so many different spiritual systems in different ways, we distinguish how it's used by the first letter it's spelt with. A '**K**' is indicative of the **Jewish practice**, a '**C**' for the **Christian**, and a '**Q**' for the **occult **and** hermetic practice.**
+**Kabalah**, **Qabalah**, **Cabala**, why so many different spellings? Since Kabalah is used in so many different spiritual systems in different ways, we distinguish how it's used by the first letter it's spelt with. A 'K' is indicative of the Jewish practice, a 'C' for the Christian, and a 'Q' for the occult and hermetic practice.
 
-The **tree of life** is divided into 10 different spheres called **Sephiroth**, with a hidden eleventh sephiroth called **Da'ath** which is normally not depicted. The **Tree of Life** is a map of the Universe. The **Tree of Life** is another great example of the **Macrocasm **and **Microcasm**, and teaches us that by studying that which is above, we can learn about that which is below, and vice versa.
+The **tree of life** is divided into 10 different spheres called **Sephiroth**, with a hidden eleventh sephiroth called **Da'ath** which is normally not depicted. The **Tree of Life** is a map of the Universe. The **Tree of Life** is another great example of the **Macrocasm** and **Microcasm**, and teaches us that by studying that which is above, we can learn about that which is below, and vice versa.
 
 **Gemetria** a alphanumeric cipher with the belief that words or phrases with identical numerical values bear some relation to each other or bear some relation to the number itself. In **Hebrew**, each letter also has a numerical value.
 
