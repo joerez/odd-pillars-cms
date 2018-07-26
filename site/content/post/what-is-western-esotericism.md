@@ -8,9 +8,9 @@ image: /img/westerneso.png
 ---
 **By: Joe Rezendes**
 
-___
+- - -
 
-Before we get into **Western Esotericism** let's first go over what **esotericism** is. **Esotericism** is the state or quality of being **esoteric**. Generally, in the occult community, when somebody refers to something as being **esoteric**, they are talking about an _occult science_ that's veiled in allegories and symbols, that is intended for only a select few to understand, and has several different layers of meaning. It's antonym, **exoteric** is the _surface_ level message that is in plain view.
+**Esotericism** is the state or quality of being **esoteric**. Generally, in the occult community, when somebody refers to something as being **esoteric**, they are talking about an _occult science_ that's veiled in allegories and symbols, that is intended for only a select few to understand, and has several different layers of meaning. It's antonym, **exoteric** is the _surface_ level message that is in plain view.
 
 If you've ever taken a literary English class, you're probably already familiar with this. Authors will convey messages and ideas through metaphors and symbols. For instance, an Author might decide to make something the color black, in order to associate it with the astrological properties of Saturn. Upon looking for the hidden meaning behind symbols, a problem arises. **It's hard to tell what's intentional and what isn't**.
 
@@ -20,13 +20,13 @@ If you've ever taken a literary English class, you're probably already familiar 
 
 With aid of **hermeticism**, **qabbalah**, and other occult philosophical concepts, we are able to decipher hidden meanings from ancient mythology and mysticism.
 
-___
+- - -
 
 ![Magician Tarot Card](/img/maj.jpg)
 
 _The Magician Tarot Card depicts the Hermetic Axiom: As Above, So Below, which comes from the Emerald Tablet._
 
-_____
+- - -
 
  A Western Esotericist is somebody who studies **Masonic**, **Hermetic**, **Qabbalistic**, and **Rosicrucian** symbolical philosophy. A Western Esotericist believes that **Masonry** derives much of it's symbolism from the _ancient mystery schools_ of Egypt and Babylon. It is from these ancient mystery schools that we get **Hermeticism**.
 
@@ -52,13 +52,13 @@ It draws on a great many influences, most notably: **Jewish Kabbalah**, **Wester
 
 **Hermetic Qabalah** differs from the Jewish form in being a more admittedly **syncretic** system, however it shares many concepts with **Jewish Kabbalah**.
 
-___
+- - -
 
 ![hermetic tree of life](/img/tree.png)
 
 _The Qabalistic Tree of Life is depicted above. This specific depiction combines hermetic, rosicrucian, and masonic symbolism with the original Kabalistic diagram._
 
-____
+- - -
 
 **Kabalah**, **Qabalah**, **Cabala**, why so many different spellings? Since Kabalah is used in so many different spiritual systems in different ways, we distinguish how it's used by the first letter it's spelt with. A 'K' is indicative of the Jewish practice, a 'C' for the Christian, and a 'Q' for the occult and hermetic practice.
 
@@ -67,8 +67,6 @@ The **tree of life** is divided into 10 different spheres called **Sephiroth**, 
 **Gemetria** a alphanumeric cipher with the belief that words or phrases with identical numerical values bear some relation to each other or bear some relation to the number itself. In **Hebrew**, each letter also has a numerical value.
 
 When Hebrew words are reduced to their numerical values, we find that quite often different words or phrases that are related to each other share the same numerical value. This is also why **Qabalah** in Hebrew translates to accounting.
-
-
 
 The last component of the Western Esoteric Tradition is the study of **magic**. The magic of Western Esotericism is known as **ceremonial magick**. 
 
